@@ -1,7 +1,6 @@
-123456
-78910:wq
+123478910:wq
 <<<<<<< HEAD
 Hello my name is Timothy 
 Hello Word!?
 hello universe!
->>>>>>> sprint2
+hello all
